@@ -1,5 +1,5 @@
 # 💫 About Me:
-Étudiant de 1ère année à Epitech Lille.<br>Passioné par les divers domaines de l'informatique.<br>Intérêt particulier pour la cybersécurité.<br><br>Actuellement à la recherche d'un stage de 6 mois en informatique.<br>Utilisateur quotidien de Linux (Fedora)<br>
+Étudiant de 1ère année à Epitech Lille.<br>Passioné par les divers domaines de l'informatique.<br>Intérêt particulier pour la cybersécurité.<br><br>Actuellement à la recherche d'un stage de 6 (Juimlet - Décembre 2025) mois en informatique.<br>Utilisateur quotidien de Linux (Fedora)<br>
 
 
 ## 🌐 Socials:
