@@ -1,5 +1,6 @@
 # 💫 About Me:
-Étudiant de 1ère année à Epitech Lille.<br>Passioné par les divers domaines de l'informatique.<br>Intérêt particulier pour la cybersécurité.<br><br>Actuellement à la recherche d'un stage de 6 (Juillet - Décembre 2025) mois en informatique.<br>Utilisateur quotidien de Linux (Fedora)<br>
+Étudiant de 2ème année à Epitech Lille.<br>Passioné par les divers domaines de l'informatique.<br>Intérêt particulier pour la cybersécurité.<br>Utilisateur quotidien de Linux<br>
+Actuellement stagiaire chez [adfinitas](https://adfinitas.com/)<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leandre-Fouret&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
